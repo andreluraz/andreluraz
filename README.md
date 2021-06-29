@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @andreluraz
 - 👀 I’m interested in learning new subjects and improve my skills. I also love chess.
-- 🌱 I’m currently in a internship in Data Science.
 - 💞️ I’m looking to collaborate on projects where I can learn a lot.
 - 📫 How to reach me:  
 e-mail: andluizraz@gmail.com or andreluizrosario@poli.ufrj.br
